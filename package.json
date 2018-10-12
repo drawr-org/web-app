@@ -10,7 +10,7 @@
   "author": "Pedro Scaff",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.2",
     "prop-types": "^15.5.8",
     "rc-color-picker": "^1.1.4",
     "react": "^15.4.2",
